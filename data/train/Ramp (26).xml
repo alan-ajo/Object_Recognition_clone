@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Ramp Images</folder>
+	<filename>Ramp (26).jpg</filename>
+	<path>E:\Tensor flow setup\Ramp Images\Ramp (26).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ramp</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>205</ymin>
+			<xmax>60</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ramp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>282</ymin>
+			<xmax>382</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ramp</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>339</ymin>
+			<xmax>441</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>
